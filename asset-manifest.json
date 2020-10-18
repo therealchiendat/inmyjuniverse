@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/inmyjuniverse/static/css/main.2797218d.chunk.css",
-    "main.js": "/inmyjuniverse/static/js/main.9e6d51b4.chunk.js",
-    "main.js.map": "/inmyjuniverse/static/js/main.9e6d51b4.chunk.js.map",
+    "main.css": "/inmyjuniverse/static/css/main.3afce956.chunk.css",
+    "main.js": "/inmyjuniverse/static/js/main.d95e2a52.chunk.js",
+    "main.js.map": "/inmyjuniverse/static/js/main.d95e2a52.chunk.js.map",
     "runtime-main.js": "/inmyjuniverse/static/js/runtime-main.0495f35d.js",
     "runtime-main.js.map": "/inmyjuniverse/static/js/runtime-main.0495f35d.js.map",
-    "static/js/2.fd937406.chunk.js": "/inmyjuniverse/static/js/2.fd937406.chunk.js",
-    "static/js/2.fd937406.chunk.js.map": "/inmyjuniverse/static/js/2.fd937406.chunk.js.map",
+    "static/js/2.72c1c1fa.chunk.js": "/inmyjuniverse/static/js/2.72c1c1fa.chunk.js",
+    "static/js/2.72c1c1fa.chunk.js.map": "/inmyjuniverse/static/js/2.72c1c1fa.chunk.js.map",
     "index.html": "/inmyjuniverse/index.html",
-    "precache-manifest.ce7f46c5e1a0960118608dde2f6907ab.js": "/inmyjuniverse/precache-manifest.ce7f46c5e1a0960118608dde2f6907ab.js",
+    "precache-manifest.518ecac753f4bafd2a8d1af3a318e834.js": "/inmyjuniverse/precache-manifest.518ecac753f4bafd2a8d1af3a318e834.js",
     "service-worker.js": "/inmyjuniverse/service-worker.js",
-    "static/css/main.2797218d.chunk.css.map": "/inmyjuniverse/static/css/main.2797218d.chunk.css.map",
-    "static/js/2.fd937406.chunk.js.LICENSE.txt": "/inmyjuniverse/static/js/2.fd937406.chunk.js.LICENSE.txt",
+    "static/css/main.3afce956.chunk.css.map": "/inmyjuniverse/static/css/main.3afce956.chunk.css.map",
+    "static/js/2.72c1c1fa.chunk.js.LICENSE.txt": "/inmyjuniverse/static/js/2.72c1c1fa.chunk.js.LICENSE.txt",
     "static/media/bw-cover.jpg": "/inmyjuniverse/static/media/bw-cover.c031d6a7.jpg",
     "static/media/experimental-cover.jpg": "/inmyjuniverse/static/media/experimental-cover.2bc1e57f.jpg",
-    "static/media/logo.svg": "/inmyjuniverse/static/media/logo.5d5d9eef.svg",
     "static/media/people-cover.jpg": "/inmyjuniverse/static/media/people-cover.4cfec01f.jpg",
     "static/media/profilePicture.jpg": "/inmyjuniverse/static/media/profilePicture.15f95957.jpg",
     "static/media/travel-cover.jpg": "/inmyjuniverse/static/media/travel-cover.0e9b0b63.jpg",
@@ -22,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0495f35d.js",
-    "static/js/2.fd937406.chunk.js",
-    "static/css/main.2797218d.chunk.css",
-    "static/js/main.9e6d51b4.chunk.js"
+    "static/js/2.72c1c1fa.chunk.js",
+    "static/css/main.3afce956.chunk.css",
+    "static/js/main.d95e2a52.chunk.js"
   ]
 }
